@@ -34,4 +34,4 @@ Then it creates a solver version of the maze drawing the path in red.
 
 ## Special thanks:
 
-	- To [Mike Pound](https://github.com/mikepound/mazesolving)'s Maze Solving Python project. All the mazes are his creation.
+- To [Mike Pound](https://github.com/mikepound/mazesolving)'s Maze Solving Python project. All the mazes are his creation.
